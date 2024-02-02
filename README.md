@@ -6,3 +6,5 @@ Här sparar vi all dokumentation som har med projektet Samkväm att göra.
 * [Show planning](https://samkvam.github.io/docs/show_planning)
 * [Merchmaster](https://samkvam.github.io/docs/merchmaster)   
 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3KD8QW)   
